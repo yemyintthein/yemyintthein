@@ -15,4 +15,4 @@ What to Expect 🚀
 I'll be sharing my design and coding projects here. They might not be perfect, but I'm learning and having fun!
 
 Let's Connect! 🤝
-Want to chat or work together? Hit me up on LinkedIn here or drop me an email at your.email@example.com.
+Want to chat or work together? Hit me up on LinkedIn here or drop me an email at yemyintthein6688@gmail.com
