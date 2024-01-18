@@ -19,8 +19,10 @@
 </a>
 
 <a href="https://www.facebook.com/YourFacebookPage" target="_blank">
-  <img src="https://img.shields.io/badge/Like-Facebook-blue?style=flat-square&logo=facebook" alt="Facebook">
+  <img src="https://img.shields.io/badge/Follow-Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
 </a>
+
 <a href="https://www.linkedin.com/in/YourLinkedInProfile" target="_blank">
-  <img src="https://img.shields.io/badge/Connect-LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
+  <img src="https://img.shields.io/badge/Connect-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
+
