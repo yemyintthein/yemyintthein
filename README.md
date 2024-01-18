@@ -11,25 +11,3 @@
 <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
 <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" alt="jQuery">
 <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
-
-
-
-<p align="center">
-    <a href="https://github.com/yemyintthein">
-        <img src="./assets/icons/other/github-solid.svg/" width="25px" />
-    </a>
-    &nbsp;
-    <a href="https://discord.com/users/kodokudokkodo">
-        <img src="./assets/icons/other/discord-solid.svg/" width="25px" />
-    </a>
-    &nbsp;
-    <a href="https://www.youtube.com/channel/UC9_kma0SOd-oSe24gqpqqCA">
-        <img src="./assets/icons/other/twitter-solid.svg/" width="25px" />
-    </a>
-    &nbsp;
-    <a href="http://www.youtube.com/@Kodokudokkodo">
-        <img src="./assets/icons/other/youtube-solid.svg/" width="25px" />
-    </a>
-    
-</p>
-
