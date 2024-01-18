@@ -3,7 +3,12 @@
 
 <p align="center">
 <img src="https://img.shields.io/badge/-HTML-orange?style=for-the-badge&logo=html5&logoColor=white" alt="HTML">
-
+<img src="https://img.shields.io/badge/-CSS-blue?style=for-the-badge&logo=css3&logoColor=white" alt="CSS">
+<img src="https://img.shields.io/badge/-JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript">
+<img src="https://img.shields.io/badge/-React-blue?style=for-the-badge&logo=react&logoColor=white" alt="React">
+<img src="https://img.shields.io/badge/-MySQL-blue?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+<img src="https://img.shields.io/badge/-Bootstrap-purple?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
+<img src="https://img.shields.io/badge/-jQuery-blue?style=for-the-badge&logo=jquery&logoColor=white" alt="jQuery">
 
 
 <a href="https://www.youtube.com/user/YourYouTubeUsername" target="_blank">
