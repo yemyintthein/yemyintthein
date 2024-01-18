@@ -15,11 +15,11 @@
 
 
 <p align="center">
-    <a href="https://github.com/Sowwyz/">
+    <a href="https://github.com/yemyintthein">
         <img src="./assets/icons/other/github-solid.svg/" width="25px" />
     </a>
     &nbsp;
-    <a href="https://discord.com/users/394251966571872256">
+    <a href="https://discord.com/users/kodokudokkodo">
         <img src="./assets/icons/other/discord-solid.svg/" width="25px" />
     </a>
     &nbsp;
@@ -27,7 +27,7 @@
         <img src="./assets/icons/other/twitter-solid.svg/" width="25px" />
     </a>
     &nbsp;
-    <a href="https://www.youtube.com/@sowwyz1337">
+    <a href="http://www.youtube.com/@Kodokudokkodo">
         <img src="./assets/icons/other/youtube-solid.svg/" width="25px" />
     </a>
     
