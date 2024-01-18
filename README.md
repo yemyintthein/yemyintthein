@@ -10,8 +10,6 @@
     <img src="https://img.shields.io/badge/-jQuery-blue?style=for-the-badge&logo=jquery&logoColor=white" alt="jQuery">
     <img src="https://img.shields.io/badge/-Adobe%20Photoshop-blue?style=for-the-badge&logo=adobe&logoColor=white" alt="Adobe Photoshop">
 </p>
-<br> 
-
 <p align="center">
 
   <p align="center" style="font-family: 'Courier New', monospace; font-size: 16px;">
