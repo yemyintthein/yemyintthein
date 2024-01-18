@@ -10,7 +10,7 @@
     <img src="https://img.shields.io/badge/-jQuery-blue?style=for-the-badge&logo=jquery&logoColor=white" alt="jQuery">
     <img src="https://img.shields.io/badge/-Adobe%20Photoshop-blue?style=for-the-badge&logo=adobe&logoColor=white" alt="Adobe Photoshop">
 </p>
-## <p align="center" >Socials</p>
+<p align="center">Socials</p>
 <p align="center">
   <a href="https://www.youtube.com/user/YourYouTubeUsername" target="_blank">
   <img src="https://img.shields.io/badge/Subscribe-YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
