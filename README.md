@@ -19,4 +19,7 @@
   <a href="https://www.facebook.com/ye.m.thein.39948?mibextid=ZbWKwL" target="_blank">
     <img src="https://img.shields.io/badge/Follow-Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
   </a>
+  <a href="https://github.com/yemyintthein" target="_blank">
+    <img src="https://img.shields.io/badge/Follow-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Follow">
+  </a>
 </p>
