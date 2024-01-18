@@ -9,6 +9,7 @@
 <img src="https://img.shields.io/badge/-MySQL-blue?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
 <img src="https://img.shields.io/badge/-Bootstrap-purple?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
 <img src="https://img.shields.io/badge/-jQuery-blue?style=for-the-badge&logo=jquery&logoColor=white" alt="jQuery">
+<img src="https://img.shields.io/badge/-Adobe%20Photoshop-blue?style=for-the-badge&logo=adobe&logoColor=white" alt="Adobe Photoshop">
 
 
 <a href="https://www.youtube.com/user/YourYouTubeUsername" target="_blank">
