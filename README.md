@@ -17,7 +17,7 @@
   <p align="center" style="font-family: 'Courier New', monospace; font-size: 16px;">
     <b>Socials</b>
 </p>
-
+<p align="center">
   <a href="https://www.youtube.com/user/YourYouTubeUsername" target="_blank">
   <img src="https://img.shields.io/badge/Subscribe-YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
 </a>
