@@ -18,9 +18,6 @@
 <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black" alt="PTS"></p>
 
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Sowwyz&color=lightgrey" alt="views">
-</p>
 
 
 </p>
