@@ -17,26 +17,3 @@
 
 
 
-</p>
-&nbsp;
-<p align="center">
-    <a href="https://github.com/Sowwyz/">
-        <img src="./assets/icons/other/github-solid.svg/" width="25px" />
-    </a>
-    &nbsp;
-    <a href="https://discord.com/users/394251966571872256">
-        <img src="./assets/icons/other/discord-solid.svg/" width="25px" />
-    </a>
-    &nbsp;
-    <a href="https://www.youtube.com/channel/UC9_kma0SOd-oSe24gqpqqCA">
-        <img src="./assets/icons/other/twitter-solid.svg/" width="25px" />
-    </a>
-    &nbsp;
-    <a href="https://www.youtube.com/@sowwyz1337">
-        <img src="./assets/icons/other/youtube-solid.svg/" width="25px" />
-    </a>
-    
-</p>
-
-
-
