@@ -15,8 +15,9 @@
 
 
 <a href="https://www.youtube.com/user/YourYouTubeUsername" target="_blank">
-  <img src="https://img.shields.io/badge/Subscribe-YouTube-red?style=flat-square&logo=youtube" alt="YouTube">
+  <img src="https://img.shields.io/badge/Subscribe-YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
 </a>
+
 <a href="https://www.facebook.com/YourFacebookPage" target="_blank">
   <img src="https://img.shields.io/badge/Like-Facebook-blue?style=flat-square&logo=facebook" alt="Facebook">
 </a>
