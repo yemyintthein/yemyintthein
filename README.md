@@ -8,7 +8,7 @@
 </p>
 <p align="center">Socials</p>
 <p align="center">
-  <a href="http://www.youtube.com/@Kodokudokkodo" target="_blank">
+  <a href="https://www.youtube.com/@YeChannelTv" target="_blank">
     <img src="https://img.shields.io/badge/Subscribe-YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
   </a>
 
