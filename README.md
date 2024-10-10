@@ -5,6 +5,9 @@
     <img src="https://img.shields.io/badge/-CSS-blue?style=for-the-badge&logo=css3&logoColor=white" alt="CSS">
     <img src="https://img.shields.io/badge/-JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript">
     <img src="https://img.shields.io/badge/-Adobe%20Photoshop-blue?style=for-the-badge&logo=adobe&logoColor=white" alt="Adobe Photoshop">
+    <img src="https://img.shields.io/badge/-Lua-blue?style=for-the-badge&logo=lua&logoColor=white" alt="Lua">
+    <img src="https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C#">
+    <img src="https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
 </p>
 <p align="center">Socials</p>
 <p align="center">
