@@ -9,7 +9,7 @@
     <img src="https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C#">
     <img src="https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
     <img src="https://img.shields.io/badge/-LÖVE-2C2A29?style=for-the-badge&logo=löve&logoColor=white" alt="Love2D">
-
+    <img src="https://img.shields.io/badge/-Roblox%20Studio-FF2D00?style=for-the-badge&logo=roblox&logoColor=white" alt="Roblox Studio">
 </p>
 
 <p align="center">Socials</p>
